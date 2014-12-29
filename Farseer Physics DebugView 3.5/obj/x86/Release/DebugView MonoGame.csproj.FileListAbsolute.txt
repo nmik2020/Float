@@ -1,0 +1,12 @@
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\Content\Font.xnb
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\DebugView MonoGame.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\DebugView MonoGame.pdb
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\FarseerPhysics MonoGame.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\Lidgren.Network.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\bin\WindowsGL\Release\FarseerPhysics MonoGame.pdb
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\obj\x86\Release\DebugView MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\obj\x86\Release\DebugView MonoGame.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics DebugView 3.5\obj\x86\Release\DebugView MonoGame.pdb

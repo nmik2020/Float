@@ -1,0 +1,7 @@
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\obj\x86\Debug\Farseer Physics XNA.csprojResolveAssemblyReference.cache
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\u0942900\Desktop\Inchworm svn repo\Farseer Physics Engine 3.5\obj\x86\Debug\FarseerPhysics XNA.pdb
