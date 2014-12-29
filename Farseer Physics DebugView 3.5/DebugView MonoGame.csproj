@@ -8,7 +8,7 @@
     <ProjectGuid>{566F1803-90B5-4947-8730-57F092FBB002}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FarseerPhysics.DebugView</RootNamespace>
+    <RootNamespace>Float.DebugView</RootNamespace>
     <AssemblyName>DebugView MonoGame</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>

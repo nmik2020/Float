@@ -8,7 +8,7 @@
     <ProjectGuid>{2ACA1734-86AF-404D-B8DB-333990D68DCE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FarseerPhysics.Samples</RootNamespace>
+    <RootNamespace>Float.Movement</RootNamespace>
     <AssemblyName>Clapper Tentacles</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>
@@ -30,7 +30,7 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>12</ApplicationRevision>
+    <ApplicationRevision>13</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>

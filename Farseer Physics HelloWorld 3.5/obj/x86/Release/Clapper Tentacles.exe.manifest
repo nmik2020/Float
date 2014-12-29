@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="Clapper Tentacles.exe" version="1.0.0.12" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
+  <asmv1:assemblyIdentity name="Clapper Tentacles.exe" version="1.0.0.13" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Clapper Tentacles" version="3.5.0.27865" language="neutral" processorArchitecture="x86" />
+    <assemblyIdentity name="Clapper Tentacles" version="3.5.0.28709" language="neutral" processorArchitecture="x86" />
     <commandLine file="Clapper Tentacles.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,37 +43,37 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Clapper Tentacles.exe" size="92160">
-      <assemblyIdentity name="Clapper Tentacles" version="3.5.0.27865" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="Clapper Tentacles" version="3.5.0.28709" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>dQUy287Wsyl2yi76GFScz4TLg9U=</dsig:DigestValue>
+        <dsig:DigestValue>dHm8ZFB9c1oFz2twxeJruDvz8w4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DebugView MonoGame.dll" size="22016">
-      <assemblyIdentity name="DebugView MonoGame" version="3.5.0.27721" language="neutral" processorArchitecture="x86" />
+      <assemblyIdentity name="DebugView MonoGame" version="3.5.0.28356" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>yuSk+4htUwCxzj1kfaO2X3pJbFY=</dsig:DigestValue>
+        <dsig:DigestValue>Km9t6vtWaVsccNHDL1ryW2TNMOw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FarseerPhysics MonoGame.dll" size="310784">
-      <assemblyIdentity name="FarseerPhysics MonoGame" version="3.5.0.27720" language="neutral" processorArchitecture="x86" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Float Monogame.dll" size="310784">
+      <assemblyIdentity name="Float Monogame" version="3.5.0.28356" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>YYNAfqEUY6QjA1kcgpHB+pxau30=</dsig:DigestValue>
+        <dsig:DigestValue>0Wq8H5tQZKgeh8sFFWt5fRvazPA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

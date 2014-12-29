@@ -48,7 +48,7 @@ namespace FarseerPhysics.Samples
         protected override void Initialize()
         {
             base.Initialize();
-            LevelBonus game1 = new LevelBonus();
+            Level1 game1 = new Level1();
             MenuScreen menuScreen = new MenuScreen("Clapper Tentacle Games!!!!!");
             menuScreen.AddMenuItem(game1.GetTitle(), EntryType.Screen, game1);
             //menuScreen.AddMenuItem("Game Samples", EntryType.Separator, null);

@@ -8,8 +8,8 @@
     <ProjectGuid>{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FarseerPhysics</RootNamespace>
-    <AssemblyName>FarseerPhysics MonoGame</AssemblyName>
+    <RootNamespace>Float</RootNamespace>
+    <AssemblyName>Float Monogame</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>
     </SccProjectName>
